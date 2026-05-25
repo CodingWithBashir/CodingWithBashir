@@ -1,16 +1,43 @@
-## Hi there 👋
+<!-- HEADER BANNER ANIMATION -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
 
-<!--
-**Bashir-FullStack/Bashir-FullStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TYPING TEXT ANIMATION -->
+<h1 align="center">
+  <a href="https://git.io">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Moving Tech Stack
+<!-- INFINITE SCROLLING CAROUSEL -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
+
+---
+
+## 📊 Live Dynamic Insights
+<!-- GLOWING STAT CARDS AND STREAKS -->
+<p align="center">
+  <img src="https://vercel.app" height="180" />
+  <img src="https://herokuapp.com" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" height="180" />
+</p>
+
+---
+
+## 📈 Real-Time Activity Visualizer
+<!-- GLOWING CONTRIB EXPONENT GRAPH -->
+<p align="center">
+  <img src="https://g9x.ru" width="100%" />
+</p>
+
+<!-- RECENT ACTIVITY FEED -->
+## 🔄 Current Focus
