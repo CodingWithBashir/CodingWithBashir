@@ -18,7 +18,7 @@
 ## 🏆 GitHub Achievement Trophies (Animated)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bashir-FullStack&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BashirCoder&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -26,13 +26,13 @@
 ## 📊 Live Metrics with Animations
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bashir-FullStack&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=issues,contribs&animation=float" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BashirCoder&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=issues,contribs&animation=float" height="180" alt="Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bashir-FullStack&hide_border=true&theme=react&background=0d1117&fire=ff6138&ring=ff6138&sideLabels=c9d1d9" height="180" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BashirCoder&hide_border=true&theme=react&background=0d1117&fire=ff6138&ring=ff6138&sideLabels=c9d1d9" height="180" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashir-FullStack&layout=compact&hide_border=true&theme=react&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashirCoder&layout=compact&hide_border=true&theme=react&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 📈 Animated Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bashir-FullStack&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&radius=10&title_color=58a6ff&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area_opacity=0.1" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BashirCoder&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&radius=10&title_color=58a6ff&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area_opacity=0.1" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🎯 Dynamic Wakatime Stats (If you use WakaTime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bashir-FullStack&layout=compact&hide_border=true&theme=react&bg_color=0d1117" height="200" alt="Coding Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BashirCoder&layout=compact&hide_border=true&theme=react&bg_color=0d1117" height="200" alt="Coding Stats" />
 </p>
 
 ---
@@ -68,9 +68,9 @@
 ## 🔥 Contribution Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bashir-FullStack/Bashir-FullStack/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bashir-FullStack/Bashir-FullStack/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bashir-FullStack/Bashir-FullStack/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BashirCoder/BashirCoder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BashirCoder/BashirCoder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BashirCoder/BashirCoder/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -78,9 +78,9 @@
 ## 🎨 Animated Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bashir-FullStack&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=BashirCoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
   
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBashir-FullStack&label=Visitors&countColor=%23263759" alt="Visitor Badge" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBashirCoder&label=Visitors&countColor=%23263759" alt="Visitor Badge" />
 </p>
 
 <p align="center">
