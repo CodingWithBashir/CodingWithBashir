@@ -1,88 +1,288 @@
+# 👋 Hi, I'm Bashir
+
 <p align="center">
-  <!-- Animated Typing SVG with Waves and Colors -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=F7D700&center=true&vCenter=true&random=false&width=500&height=60&lines=%F0%9F%9A%80+Full-Stack+Engineer;%F0%9F%A7%A0+AI+%26+Deep+Learning+Architect;%E2%9A%A1+Real-Time+Data+Pipeline+Builder;%F0%9F%93%88+Live+Contributor+%26+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Bashir+from+Rwanda+%F0%9F%87%B7%F0%9F%87%BC;Founder+of+CodingWithBashir+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;AI+Builder+%26+Machine+Learning+Explorer+%F0%9F%A7%A0;Building+Projects+That+Solve+Real+Problems+%F0%9F%94%A5;Learning.+Building.+Shipping." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=CodingWithBashir&fontAlign=50&fontAlignY=40&fontSize=50&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Future%20Technical%20Founder&descAlignY=60" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/CodingWithBashir">
+    <img src="https://komarev.com/ghpvc/?username=CodingWithBashir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20Bashir's%20Universe&fontSize=30&fontAlignY=35&animation=twinkling" />
-</p>
+---
+
+# 🚀 About Me
+
+I'm **Bashir**, a software developer from **Rwanda 🇷🇼** passionate about building technology that creates real impact.
+
+My interests span across:
+
+* 🤖 Artificial Intelligence
+* 🧠 Large Language Models (LLMs)
+* 🌍 African Language Technology
+* 💻 Full-Stack Development
+* ☁️ Cloud & Infrastructure
+* 🔥 Open Source
+* ⚡ Developer Tools
+* 📈 Scalable Systems
+* 🏗️ Product Engineering
+
+I enjoy understanding how systems work internally and turning ideas into working products.
+
+---
+
+# 🎯 Mission
+
+My goal is to become a technical founder building scalable technology products that solve meaningful problems.
+
+I believe:
+
+> Learn deeply. Build consistently. Share openly.
+
+Every project teaches something valuable.
+
+Every bug is a lesson.
+
+Every system is an opportunity to understand technology at a deeper level.
+
+---
+
+# 🧠 Currently Learning
+
+```txt
+✓ JavaScript
+✓ TypeScript
+✓ Python
+✓ Node.js
+✓ React
+✓ APIs
+✓ Databases
+✓ AI Engineering
+✓ Transformers
+✓ Hugging Face
+✓ Machine Learning
+✓ System Design
+
+Current Focus:
+→ AI Products
+→ Open Source
+→ LLM Fine-Tuning
+→ Full Stack Systems
+→ Developer Tools
+→ SaaS Architecture
+```
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+systems+with+TypeScript+%2B+Python;Lover+of+clean+code+and+modern+architecture;Always+learning,+always+building..." />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql&theme=dark" />
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" />
+</p>
+
+## AI & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+</p>
+
+### Tools I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievement Trophies (Animated)
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BashirCoder&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodingWithBashir&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodingWithBashir&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithBashir&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 Live Metrics with Animations
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BashirCoder&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=issues,contribs&animation=float" height="180" alt="Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BashirCoder&hide_border=true&theme=react&background=0d1117&fire=ff6138&ring=ff6138&sideLabels=c9d1d9" height="180" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashirCoder&layout=compact&hide_border=true&theme=react&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodingWithBashir&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
-## 📈 Animated Activity Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BashirCoder&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&radius=10&title_color=58a6ff&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area_opacity=0.1" width="100%" alt="Activity Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=CodingWithBashir&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
 </p>
 
 ---
 
-## 🛠️ Animated Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,aws,docker,kubernetes,postgresql,mongodb,graphql,redis,git,github&theme=dark&perline=8" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=header" />
-</p>
-
----
-
-## 🎯 Dynamic Wakatime Stats (If you use WakaTime)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BashirCoder&layout=compact&hide_border=true&theme=react&bg_color=0d1117" height="200" alt="Coding Stats" />
-</p>
-
----
-
-## 🔥 Contribution Snake Animation
+# 🔥 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BashirCoder/BashirCoder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BashirCoder/BashirCoder/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BashirCoder/BashirCoder/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodingWithBashir/CodingWithBashir/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodingWithBashir/CodingWithBashir/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/CodingWithBashir/CodingWithBashir/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-## 🎨 Animated Visitor Counter
+# 🚀 Featured Projects
+
+## 🤖 Artificial Intelligence
+
+* AI Assistants
+* Language Models
+* AI APIs
+* Machine Learning Experiments
+* Hugging Face Projects
+
+## 🌐 Full Stack Applications
+
+* Web Applications
+* REST APIs
+* Authentication Systems
+* Dashboard Platforms
+* SaaS Projects
+
+## 🛠 Developer Tools
+
+* CLI Tools
+* Automation Scripts
+* Productivity Systems
+* Open Source Utilities
+
+---
+
+# 🗺️ Developer Roadmap
+
+### 2026 Goals
+
+* [ ] Publish AI models on Hugging Face
+* [ ] Build production AI applications
+* [ ] Contribute to major open-source projects
+* [ ] Launch SaaS products
+* [ ] Improve cloud infrastructure skills
+* [ ] Build a developer community
+* [ ] Master system design fundamentals
+
+---
+
+# 📚 Areas of Interest
+
+| Area                    | Interest Level |
+| ----------------------- | -------------- |
+| Artificial Intelligence | ⭐⭐⭐⭐⭐          |
+| Machine Learning        | ⭐⭐⭐⭐⭐          |
+| Full Stack Development  | ⭐⭐⭐⭐⭐          |
+| Open Source             | ⭐⭐⭐⭐⭐          |
+| APIs                    | ⭐⭐⭐⭐⭐          |
+| Cloud Computing         | ⭐⭐⭐⭐           |
+| DevOps                  | ⭐⭐⭐⭐           |
+| System Design           | ⭐⭐⭐⭐⭐          |
+| Databases               | ⭐⭐⭐⭐           |
+| Product Engineering     | ⭐⭐⭐⭐⭐          |
+
+---
+
+# 🌍 Open Source
+
+I strongly believe in learning through building and sharing.
+
+Open source allows developers across the world to:
+
+* Learn together
+* Build together
+* Grow together
+
+Every contribution matters.
+
+---
+
+# 📖 Favorite Principles
+
+```txt
+1. Build before you feel ready.
+2. Learn by creating.
+3. Simplicity beats complexity.
+4. Consistency beats intensity.
+5. Real projects teach the most.
+6. Curiosity is a superpower.
+7. Never stop learning.
+```
+
+---
+
+# 📡 Connect With Me
+
+### GitHub
+
+https://github.com/CodingWithBashir
+
+### Hugging Face
+
+https://huggingface.co/CodingWithBashir
+
+---
+
+# 💭 Developer Philosophy
+
+Technology changes.
+
+Frameworks change.
+
+Tools change.
+
+But these never become obsolete:
+
+* Curiosity
+* Discipline
+* Problem Solving
+* Creativity
+* Persistence
+
+My journey is not just about writing code.
+
+It is about building systems, creating value, and continuously becoming a better engineer.
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BashirCoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
-  
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBashirCoder&label=Visitors&countColor=%23263759" alt="Visitor Badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=25&fontAlignY=65"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=20&fontAlignY=75&animation=twinkling" />
+  <b>Made with ❤️ by Bashir | CodingWithBashir</b>
 </p>
